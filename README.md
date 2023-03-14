@@ -26,12 +26,12 @@ Le programme peut être utilisé avec n'importe quel labyrinthe, mais il est pr�
 ## Exemple
 
 Voici un exemple de labyrinth:
-+++++++++
-+A      +
-+ +++++++
-+    +  +
-+  +   B+
-+++++++++
+    +++++++++
+    +A      +
+    + +++++++
+    +    +  +
+    +  +   B+
+    +++++++++
 
 ## Installation
 
