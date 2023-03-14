@@ -37,8 +37,8 @@ Voici un exemple de labyrinth:
 
 Pour compiler le programme, il faut utiliser la commande suivante:
     
-        gcc -o labyrint labyrint.c
+        gcc -o labyrint search.c
 
 Pour exécuter le programme, il faut utiliser la commande suivante:
         
-            ./labyrint
+            ./search
