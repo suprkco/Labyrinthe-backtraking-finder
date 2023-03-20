@@ -23,15 +23,6 @@ Le programme peut être utilisé avec n'importe quel labyrinthe, mais il est pr�
 - le point d'arrivée doit être representé par le caractère `B`
 - les murs et les délimitations doivent être représentés par le caractère `+`
 
-## Exemple
-
-Voici un exemple de labyrinth:
-    +++++++++
-    +A      +
-    + +++++++
-    +    +  +
-    +  +   B+
-    +++++++++
 
 ## Installation
 
